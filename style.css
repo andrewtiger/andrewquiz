@@ -139,4 +139,12 @@ input::placeholder{
     color: rgb(28, 26, 26);
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 600px) {
+    html {
+        font-size: 8px;
+    }
+    .navbar-brand {
+        font-size: 2rem;
+    }
+    
+}

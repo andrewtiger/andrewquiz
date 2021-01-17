@@ -36,11 +36,11 @@ let questions = [
         answer: 4,
     },
     {
-        question: 'What is the right sentence comes with this?"Hello my name is Andrrriuaha because"',
-        choice1: 'I am Andrew',
-        choice2: 'I am Poop',
-        choice3: 'I am Andrrriuaha',
-        choice4: 'I am BaBo',
+        question: 'What is the red fruit?',
+        choice1: 'carrot',
+        choice2: 'grape',
+        choice3: 'strawberry',
+        choice4: 'banana',
         answer: 3,
     },
 ]
